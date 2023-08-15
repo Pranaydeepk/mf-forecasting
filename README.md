@@ -19,11 +19,6 @@ Installation
 Clone this repository and install the requirements.
 
 
-Pre-Requisite
-==============
-Project required Mutual fund scheme code, *[here](https://github.com/NayakwadiS/Forecasting_Mutual_Funds/blob/master/codes.json)* you can get those. 
-
-
 Steps to Run from Terminal
 =================
 1. Direct to cloned repository path in CMD or Terminal
@@ -53,10 +48,5 @@ Steps to Run as Web App
 Disclaimer
 ================
 This project gives an idea about MF forecasting and should not be considered as investment advice.
-
-
-Crypto Prediction
-================
-Prediction of Cryptocurrencies in Indian Rupees *[here](https://github.com/NayakwadiS/Predict_Cryptocurrency_INR)*
 
 
